@@ -39,7 +39,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
-  --backgroundImage: url('https://r4.wallpaperflare.com/wallpaper/645/885/158/mikasa-ackerman-scarf-shingeki-no-kyojin-anime-girls-wallpaper-c95058cd916a8d4b3607b8afe031d6dd.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient" n*/
+  --backgroundImage: url('https://c4.wallpaperflare.com/wallpaper/681/554/339/abstract-planet-space-purple-wallpaper-preview.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient" n*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
