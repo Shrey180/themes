@@ -39,7 +39,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
-  --backgroundImage: url('https://e1.pxfuel.com/desktop-wallpaper/893/255/desktop-wallpaper-aesthetic-laptop-attack-on-titan-posted-by-sarah-anderson-aot-pc-aesthetic.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://i.pinimg.com/originals/17/0c/6a/170c6a2d3817b80630704114ca8ce5c3.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
